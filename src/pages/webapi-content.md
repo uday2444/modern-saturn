@@ -3,7 +3,7 @@ title: Web-Api
 sections:
   - title: Web Api
     features:
-      - title: Web-
+      - title: Web-API
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
