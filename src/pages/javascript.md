@@ -1,5 +1,5 @@
 ---
-title: MySQL
+title: Javascript
 sections:
   - title: Cyber Security Advanced
     features:
