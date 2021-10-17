@@ -9,7 +9,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: fifty
+        media_width: sixty
         align: left
         image: images/web-api.PNG
     feature_padding_vert: medium
