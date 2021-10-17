@@ -10,7 +10,6 @@ sections:
         media_position: top
         media_width: thirty-three
         align: left
-        image: images/web-api.PNG
     feature_padding_vert: medium
     align: center
     padding_top: medium
