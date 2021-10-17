@@ -1,7 +1,7 @@
 ---
 title: MySQL
 sections:
-  - title: MySQL
+  - title: Web Development
     features:
       - content: >+
           MySQL is an open-source relational database management system (RDBMS).
