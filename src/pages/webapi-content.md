@@ -11,7 +11,6 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: images/web-api.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
