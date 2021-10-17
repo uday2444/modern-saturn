@@ -10,7 +10,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: top
         media_width: sixty
-        align: left
+        align: center
         image: images/web-api.PNG
     feature_padding_vert: medium
     align: center
