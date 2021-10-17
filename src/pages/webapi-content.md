@@ -1,7 +1,7 @@
 ---
 title: Web-Api
 sections:
-  - title: lorem-ipsum
+  - title: Web Api
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
