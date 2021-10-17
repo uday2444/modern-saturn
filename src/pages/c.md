@@ -19,7 +19,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    title: DEVOPS
+    title: C Programming
 seo:
   title: ''
   description: ''
