@@ -8,7 +8,7 @@ sections:
         title_align: left
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Know More
             url: '#'
             style: link
             has_icon: false
