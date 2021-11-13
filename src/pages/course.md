@@ -25,7 +25,7 @@ sections:
         image_has_padding: false
         image: images/java-ea3a4aa2.png
       - title: Cyber Security
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
