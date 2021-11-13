@@ -26,8 +26,16 @@ sections:
         image: images/java-ea3a4aa2.png
       - title: Cyber Security
         title_align: center
-        content_align: left
-        actions: []
+        content_align: center
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
