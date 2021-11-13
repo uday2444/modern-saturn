@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: Courses We Offer
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
