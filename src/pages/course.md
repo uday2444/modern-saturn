@@ -25,7 +25,6 @@ sections:
         image_has_padding: false
         image: images/java-ea3a4aa2.png
       - title: Cyber Security
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
