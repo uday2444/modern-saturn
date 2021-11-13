@@ -4,7 +4,7 @@ sections:
   - title: Courses We Offer
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Java
         subtitle: lorem-ipsum
         title_align: left
         content: >-
