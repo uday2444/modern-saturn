@@ -10,7 +10,7 @@ sections:
         actions:
           - label: Know More
             url: /java
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
