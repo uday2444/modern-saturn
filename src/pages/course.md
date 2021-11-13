@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: Courses
-    subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
     enable_cards: false
