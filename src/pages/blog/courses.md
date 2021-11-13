@@ -1,6 +1,5 @@
 ---
 title: Courses
-subtitle: lorem-ipsum
 date: '2021-11-13'
 categories: []
 tags: []
