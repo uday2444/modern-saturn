@@ -1,7 +1,8 @@
 ---
 title: Courses
 date: '2021-11-13'
-categories: []
+categories:
+  - src/data/categories/category-l8cmo2qwk.json
 tags: []
 excerpt: lorem-ipsum
 thumb_image_alt: lorem-ipsum
