@@ -6,7 +6,7 @@ sections:
     grid_items:
       - title: Java
         title_align: left
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
