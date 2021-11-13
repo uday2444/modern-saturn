@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Courses
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
