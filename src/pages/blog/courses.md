@@ -14,6 +14,7 @@ seo:
   robots: []
   extra: []
 template: post
+thumb_image: images/java-765ca559.png
 ---
 ## Lorem ipsum
 
