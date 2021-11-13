@@ -9,7 +9,7 @@ sections:
         content_align: center
         actions:
           - label: Know More
-            url: '#'
+            url: /java
             style: link
             has_icon: false
             icon: arrow-left
