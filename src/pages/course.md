@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: C
+  - title: Courses
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
