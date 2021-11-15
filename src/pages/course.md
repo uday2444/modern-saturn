@@ -29,7 +29,7 @@ sections:
         content_align: center
         actions:
           - label: Course Detail
-            url: /cyber
+            url: /cybersecurity-advanced
             style: link
             has_icon: false
             icon: arrow-left
