@@ -65,7 +65,7 @@ sections:
         title: AWS
         image: images/aws-logo-1024x626.png
       - title: Android
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
