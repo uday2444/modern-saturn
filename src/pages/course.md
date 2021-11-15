@@ -8,7 +8,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Know More
+          - label: Course Detail
             url: /java
             style: secondary
             has_icon: false
