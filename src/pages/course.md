@@ -44,8 +44,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/ceh3.png
-      - subtitle: lorem-ipsum
-        title_align: center
+      - title_align: center
         content_align: left
         actions: []
         actions_align: left
