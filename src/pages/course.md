@@ -128,7 +128,7 @@ sections:
         content_align: left
         actions:
           - label: Course Detail
-            url: '#'
+            url: /azure
             style: link
             has_icon: false
             icon: arrow-left
