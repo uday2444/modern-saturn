@@ -205,7 +205,7 @@ sections:
         image_has_padding: false
         image: images/mcsa.png
       - title: ITMS
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
