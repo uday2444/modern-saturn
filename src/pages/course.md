@@ -123,6 +123,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: Web-Api
+        image: images/web-api-daf9b419.PNG
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
