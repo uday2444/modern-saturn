@@ -165,7 +165,7 @@ sections:
         title: Devops
         image: images/devops.webp
       - title: ' C Programming'
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
