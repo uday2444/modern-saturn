@@ -66,6 +66,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        title: AWS
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
