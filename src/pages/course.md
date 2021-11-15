@@ -144,7 +144,7 @@ sections:
         image_has_padding: false
         title: Azure
         image: images/azure.png
-      - title_align: left
+      - title_align: center
         content: >-
           ## Lorem ipsum
 
