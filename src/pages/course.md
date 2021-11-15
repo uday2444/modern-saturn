@@ -185,7 +185,6 @@ sections:
         image_has_padding: true
         image: images/c.png
       - title: MCSA
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
