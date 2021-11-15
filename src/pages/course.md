@@ -64,7 +64,7 @@ sections:
         image_has_padding: false
         title: AWS
         image: images/aws-logo-1024x626.png
-      - title: lorem-ipsum
+      - title: Android
         subtitle: lorem-ipsum
         title_align: left
         content: >-
