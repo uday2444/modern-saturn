@@ -43,7 +43,7 @@ sections:
         image_width: fifty
         image_align: center
         image_has_padding: false
-        image: images/cyber.jpg
+        image: images/ceh3.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
