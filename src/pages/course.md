@@ -63,6 +63,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: AWS
+        image: images/aws-logo-1024x626.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
