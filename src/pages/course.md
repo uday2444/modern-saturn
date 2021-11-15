@@ -107,7 +107,7 @@ sections:
       - title_align: center
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Course Detail
             url: '#'
             style: link
             has_icon: false
