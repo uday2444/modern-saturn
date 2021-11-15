@@ -85,7 +85,6 @@ sections:
         image_has_padding: false
         image: images/android-4ef649ea.png
       - title: C++
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
