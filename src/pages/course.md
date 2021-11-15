@@ -105,8 +105,6 @@ sections:
         image_has_padding: false
         image: images/c++.png
       - title_align: center
-        content: |
-          #
         content_align: center
         actions: []
         actions_align: left
