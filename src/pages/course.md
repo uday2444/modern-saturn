@@ -149,7 +149,7 @@ sections:
         actions:
           - label: Course Detail
             url: /deveops
-            style: primary
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
