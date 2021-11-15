@@ -69,7 +69,7 @@ sections:
         content_align: left
         actions:
           - label: Couse Detail
-            url: '#'
+            url: /android
             style: link
             has_icon: false
             icon: arrow-left
