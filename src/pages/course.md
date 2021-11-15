@@ -5,7 +5,7 @@ sections:
     actions: []
     grid_items:
       - title: Java
-        title_align: left
+        title_align: center
         content_align: center
         actions:
           - label: Know More
