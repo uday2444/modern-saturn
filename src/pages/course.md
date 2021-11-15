@@ -89,7 +89,7 @@ sections:
         content_align: left
         actions:
           - label: Course Detail
-            url: /c++
+            url: /cplus
             style: secondary
             has_icon: false
             icon: arrow-left
