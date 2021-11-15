@@ -184,7 +184,7 @@ sections:
         image_align: left
         image_has_padding: true
         image: images/c.png
-      - title: lorem-ipsum
+      - title: MCSA
         subtitle: lorem-ipsum
         title_align: left
         content: >-
