@@ -182,7 +182,7 @@ sections:
         image_position: top
         image_width: twenty-five
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         image: images/c.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
