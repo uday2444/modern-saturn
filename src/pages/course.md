@@ -204,7 +204,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/mcsa.png
-      - title: lorem-ipsum
+      - title: ITMS
         subtitle: lorem-ipsum
         title_align: left
         content: >-
