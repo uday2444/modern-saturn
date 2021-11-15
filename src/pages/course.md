@@ -163,6 +163,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: Devops
+        image: images/devops.webp
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
