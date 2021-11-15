@@ -164,7 +164,7 @@ sections:
         image_has_padding: false
         title: Devops
         image: images/devops.webp
-      - title: lorem-ipsum
+      - title: ' C Programming'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
