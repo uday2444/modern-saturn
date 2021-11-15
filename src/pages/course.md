@@ -124,8 +124,7 @@ sections:
         image_has_padding: false
         title: Web-Api
         image: images/web-api-daf9b419.PNG
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
