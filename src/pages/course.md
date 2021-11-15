@@ -108,7 +108,7 @@ sections:
         content_align: center
         actions:
           - label: Course Detail
-            url: /webapi
+            url: /webapi-content
             style: link
             has_icon: false
             icon: arrow-left
