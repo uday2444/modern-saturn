@@ -29,7 +29,7 @@ sections:
         content_align: center
         actions:
           - label: Course Detail
-            url: '#'
+            url: /cyber
             style: link
             has_icon: false
             icon: arrow-left
