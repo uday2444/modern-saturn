@@ -106,7 +106,7 @@ sections:
         image: images/c++.png
       - title_align: center
         content: |
-          ##
+          #
         content_align: center
         actions: []
         actions_align: left
