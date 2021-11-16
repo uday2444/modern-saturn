@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Courses
 sections:
   - title: Courses We Offer
     actions: []
