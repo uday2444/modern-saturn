@@ -248,7 +248,7 @@ sections:
         content_align: left
         actions:
           - label: Contact Detail
-            url: '#'
+            url: /python
             style: link
             has_icon: false
             icon: arrow-left
