@@ -225,7 +225,7 @@ sections:
         image_has_padding: false
         image: images/itms.jpeg
       - title_align: center
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
