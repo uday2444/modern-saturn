@@ -183,7 +183,7 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: true
-        image: images/c.png
+        image: images/cprogramming.png
       - title: MCSA
         title_align: center
         content_align: left
