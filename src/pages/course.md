@@ -228,7 +228,7 @@ sections:
         content_align: center
         actions:
           - label: Course Detail
-            url: '#'
+            url: /it
             style: link
             has_icon: false
             icon: arrow-left
