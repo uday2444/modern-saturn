@@ -24,7 +24,7 @@
             },
             {
                 "label": "Courses",
-                "url": "/courses",
+                "url": "/course",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
