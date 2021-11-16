@@ -103,7 +103,7 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: false
-        image: images/c++.png
+        image: images/cplus.png
       - title_align: center
         content_align: center
         actions:
