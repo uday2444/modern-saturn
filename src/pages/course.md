@@ -244,7 +244,7 @@ sections:
         image_has_padding: false
         title: IT Security
         image: images/itsecurity.jpeg
-      - title_align: left
+      - title_align: center
         content: >-
           ## Lorem ipsum
 
