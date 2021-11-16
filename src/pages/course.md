@@ -228,7 +228,7 @@ sections:
         content_align: center
         actions:
           - label: Course Detail
-            url: /it
+            url: /itsecurity
             style: link
             has_icon: false
             icon: arrow-left
