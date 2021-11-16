@@ -205,7 +205,7 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Stackbit DIY Theme
+  title: Eduprajna
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
