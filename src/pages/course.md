@@ -243,6 +243,7 @@ sections:
         image_align: left
         image_has_padding: false
         title: IT Security
+        image: images/itsecurity.jpeg
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
